@@ -1,2 +1,2 @@
-# Clothing_Case_Study
- A small case study with a dataset about orderer shirts. The goal is to predict if a customer will return the order.
+# Data Cleaning - Clothing Case Study
+ A small case study with a dataset about orderer shirts & other cloths. In this section we handle the 'Data Cleaning'.
