@@ -1,2 +1,2 @@
-# Data Cleaning - Clothing Case Study
- A small case study with a dataset about orderer shirts & other cloths. In this section we handle the 'Data Cleaning'.
+# Case Studies
+A small set of different case studies.
